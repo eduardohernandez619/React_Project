@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-        <h1>Welcome to my first React project</h1>
+        <h1>Welcome to my first React project... Coming Soon</h1>
     )
 }
 
